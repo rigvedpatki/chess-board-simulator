@@ -1,0 +1,34 @@
+{
+  "name": "chess-board-simulator",
+  "version": "0.0.1",
+  "description": "Simple command line based application to simulate the movement of various chess pieces on chess board",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigvedpatki/chess-board-simulator.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "chess"
+  ],
+  "author": "Rigved Patki <rigved.patki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rigvedpatki/chess-board-simulator/issues"
+  },
+  "homepage": "https://github.com/rigvedpatki/chess-board-simulator#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.23",
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "@typescript-eslint/parser": "^3.6.1",
+    "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "prettier": "^2.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
